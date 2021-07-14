@@ -1,0 +1,5 @@
+-For: el bucle for se utiliza para repetir un bloque de código muchas veces. 
+-Operadores lógicos:
+•	AND: es representado con dos ampersands (&&). Solo es verdaderos si ambos son verdaderos, sino es falso.
+•	OR: es representado con dos líneas verticales (||). Solo es falso si ambos son falsos, sino es verdadero.
+•	NOT: es representado con el signo de exclamación (!). Este operador devuelve el valor contrario. Por ejemplo: !true = false.
