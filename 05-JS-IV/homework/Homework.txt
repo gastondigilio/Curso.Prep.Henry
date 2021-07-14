@@ -1,0 +1,6 @@
+-Objetos: son una colección de propiedades y una propiedad es una asociación entre un nombre y un valor.
+-Propiedades: una propiedad de un objeto se puede explicar cómo una variable adjunta al objeto. Las propiedades de un objeto básicamente son lo mismo que las variables comunes de JavaScript, excepto por el nexo con el objeto. Las propiedades de un objeto definen las características del objeto. 
+-Métodos: las funciones guardadas en un objeto se denominan métodos, como los que ya hemos visto (.length, .push, .pop, etc). Estos métodos se invocan usando notación de puntos al principio y paréntesis finales. 
+-Bucles for…in: es un bucle que interactúa con los elementos internos de los objetos.
+- Bracket notation se escribe el nombre del objeto y entre corchetes y llaves se escribe la propiedad a la que se quiere acceder. Por ej: gaston[‘nombre de la propiedad’]. Mientras que dot notation tiene el mismo fin pero se escribe nombre del objeto seguido de un punto y la propiedad a la cual queremos acceder. Por ejemplo: gaston.nombre
+
