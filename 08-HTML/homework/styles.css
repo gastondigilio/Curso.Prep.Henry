@@ -1,0 +1,67 @@
+
+img{
+    width: 400px;
+}
+
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    color: red;
+    padding: 50px;
+    border: 5px solid red;
+  
+
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+
+.body{
+    background-color: #D6EAF8;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+
+#head{
+    font-size: 24px;
+    font-style: italic;
+    text-align: center;
+}
+
+#foto{
+    font-size: small;
+    text-align: center;
+}
+
+h2{
+    font-style: italic;
+    font-size: 20px;
+}
+
+nav{
+    font-style: italic;
+    font-size: 16px;
+    
+}
+
+h2 img{
+    width: 150px;
+    height: 150px;
+    float: right;
+    padding-right: 20px;
+}
+
+.cuerpo{
+    padding-left: 20px;
+    background-color: #FDF2E9;
+}
