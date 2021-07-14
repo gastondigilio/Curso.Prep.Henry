@@ -1,0 +1,11 @@
+- Variables: una variable es un elemento que se emplea para almacenar y hacer referencia a otro valor. Para crear una variable se utiliza la palabra clave var, seguida de un espacio y el nombre de la misma. Por ejemplo: var nombre = Gastón.
+- Strings: son bloques de texto, se definen entre comillas, ya sea simple o doble. Por ejemplo: var nombre = ‘Gastón’.
+- Funciones: una definición de función consta de la palabra clave function, seguida del nombre de la misma, una lista de parámetros (separados por comas y entre paréntesis) y las declaraciones que definen la función, encerradas entre llaves ({}). Por ejemplo: 
+Function nombrePersona(nombre){
+Return nombre;
+}
+Las funciones pueden devolver un resultado si se introduce la sentencia return. En el ejemplo anterior lo que queríamos que nos devuelva es el nombre de la persona.
+- Declaraciones:
+If: se emplea para tomar decisiones en función de una condición. Su definición formal es: if(condición){….}. Si la condición se cumple (es decir, si el valor es true) se ejecutan todas las instrucciones que se encuentran dentro de {…..}. Si no se cumple (es decir, si el valor es false) no se ejecuta ninguna instrucción. 
+-Valores booleanos: son un tipo de dato primitivo. Un booleano tiene dos posibles valores: true o false. Por lo general se genera de manera implícita la coerción de tipos a booleano. Por ejemplo en una sentencia if que evalúa cierta expresión, esa expresión genera como resultado un booleano.   
+
